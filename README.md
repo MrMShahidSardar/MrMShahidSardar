@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahid Sardar</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmshahidsardar&label=Profile%20views&color=0e75b6&style=flat" alt="mrmshahidsardar" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmshahidsardar" alt="mrmshahidsardar" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-- 🔭 I’m currently working on **Implementing data cleansing and preprocessing techniques to ensure data accuracy and reliability.**
+- 🔭 I’m currently working on Implementing data cleansing and preprocessing techniques to ensure data accuracy and reliability.
 
 - 🌱 I’m currently learning Domain Knowledge / Machine Learning
 
