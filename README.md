@@ -4,13 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🔭 I’m currently working on Implementing data cleansing and preprocessing techniques to ensure data accuracy and reliability.
 
-- 🌱 I’m currently learning Domain Knowledge / Machine Learning
+- 🌱 I’m currently learning Domain Knowledge / Machine Learning / Deep Learning
 
-- 👯 I’m looking to collaborate on Participating in cross-functional teams to address business challenges and opportunities through data-driven decision-making.
-
-- 🤝 I’m looking for help with Exploring new tools and technologies in the field of data analytics to stay updated with industry trends.
-
-- 💬 Ask me about The specific tools and technologies you're using for data analysis.
+- 💬 Ask me about The specific tools and technologies you're using for data science data analysis.
 
 - 📫 How to reach me **MrMuhammadShahidSardar@gmail.com**
 
