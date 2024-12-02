@@ -3,14 +3,31 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on:
+Advanced data analytics and predictive modeling projects.
+Building dashboards and performance insights for businesses.
+
+🌱 I’m currently learning:
+Deep learning frameworks and advanced NLP techniques.
+Data engineering tools for scalable analytics pipelines.
+
+👯 I’m looking to collaborate on:
+Open-source data science projects, machine learning challenges, and interactive data visualizations.
+
+🤔 I’m looking for help with:
+Enhancing my cloud computing skills for big data processing (e.g., AWS, GCP, Azure).
+
+💬 Ask me about:
+Data analysis, machine learning, dashboard development, and data visualization tools like Python and Power BI.
+
+📫 How to reach me:
+Feel free to connect via Gmail or drop me an email at MrMShahidSardar@gmail.com
+
+😄 Pronouns:
+He/Him
+
+⚡ Fun fact:
+I love discovering hidden patterns in data, and when I’m not coding, you’ll find me exploring digital marketing trends or planning my next outdoor adventure.
 -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
