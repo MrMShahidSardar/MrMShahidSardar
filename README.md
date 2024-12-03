@@ -1,25 +1,17 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Shahid Sardar</h1>
 <h3 align="center">A passionate Senior Data Analyst from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmshahidsardar&label=Profile%20views&color=0e75b6&style=flat" alt="mrmshahidsardar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmshahidsardar" alt="mrmshahidsardar" /></a> </p>
 
-- 🔭 I’m currently working on **Advanced data analytics and predictive modeling projects. Building dashboards and performance insights for businesses.**
-
-- 🌱 I’m currently learning **Deep learning frameworks and advanced NLP techniques.**
-
-- 👯 I’m looking to collaborate on **Open-source data science projects, machine learning challenges, and interactive data visualizations.**
-
-- 🤝 I’m looking for help with **Enhancing my cloud computing skills for big data processing (AWS, Azure).**
-
-- 👨‍💻 All of my projects are available at [https://mrmshahidsardar.github.io/](https://mrmshahidsardar.github.io/)
-
-- 💬 Ask me about **Data analysis, machine learning, dashboard development, and data visualization tools like Python and Power BI.**
+- 💬 Ask me about **Data Science, Machine Learning**
 
 - 📫 How to reach me **MrMShahidSardar@gmail.com**
 
-- ⚡ Fun fact **I love discovering hidden patterns in data, and when I’m not coding, you’ll find me exploring digital marketing trends or planning my next outdoor adventure.**
+- ⚡ Fun fact **I turn raw data into actionable insights & I find it thrilling!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
