@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmshahidsardar" alt="mrmshahidsardar" /></a> </p>
 
-- 💬 Ask me about **Data Science, Machine Learning**
+- 💬 Ask me about **Data Science & Analytics, Machine Learning**
 
 - 📫 How to reach me **MrMShahidSardar@gmail.com**
 
